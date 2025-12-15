@@ -62,6 +62,8 @@ Kang M, Ting FF, Phan RC-W, Ting C-M. PK-YOLO: pretrained knowledge guided YOLO 
 
 - **APA7 (Author–Date) Style**</br>
 Kang, M., Ting, F. F., Phan, R. C.-W., & Ting, C.-M. (2025). PK-YOLO: Pretrained knowledge guided YOLO for brain tumor detection in multiplane MRI slice. In *Proceedings of the 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)* (pp. 3732–3741). IEEE. https://doi.org/10.1109/WACV61041.2025.00367</br>
+&nbsp;- **AAAI (Author–Year) Variation**</br>
+Kang, M.; Ting, F. F.; and Phan, R. C.-W.; Ting, C.-M. 2025. PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplane MRI Slice. In *Proceedings of the 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 3732–3741. Piscataway, NJ: IEEE.</br>
 &nbsp;- **ICML (Author–Year) Variation**</br>
 Kang, M., Ting, F. F., Phan, R. C.-W., and Ting, C.-M. PK-YOLO: Pretrained knowledge guided YOLO for brain tumor detection in multiplane MRI slice. In *Proceedings of the 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, pp. 3732–3741, Piscataway, NJ, 2025. IEEE.</br>
 <sup>**NOTE:** For **NeurIPS** and **ICLR**, any reference/citation style is acceptable as long as it is used consistently. The sample of references in Formatting Instructions For NeurIPS almost follows APA7 (author–date) style and that in Formatting Instructions For ICLR Conference Submissions is similar to IJCAI full name-year variation.</sup>

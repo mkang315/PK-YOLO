@@ -36,7 +36,7 @@ Ming Kang, Fung Fung Ting, Raphaël C.-W. Phan, and Chee-Ming Ting. Pk-yolo: Pre
 Ming Kang, Fung Fung Ting, Raphaël C.-W. Phan, and Chee-Ming Ting. 2025. Pk-yolo: Pretrained knowledge guided yolo for brain tumor detection in multiplane mri slices. In *Proceedings of the 2025 IEEE/CVF Winter Conference on Applications of Computer Vision*, pages 3732–3741, Piscataway, NJ. IEEE.</br>
 
 - **IEEE Reference Style**</br>
-M. Kang, F. F. Ting, R. C.-W. Phan, and C.-M. Ting, "Pk-yolo: Pretrained knowledge guided yolo for brain tumor detection in multiplane mri slices," in *Proc. Winter Conf. Appl. Comput. Vis. (WACV)*, Tucson, AZ, USA, Feb. 28–Mar. 4, 2025, pp. 3732–3741.</br>
+M. Kang, F. F. Ting, R. C.-W. Phan, and C.-M. Ting, "Pk-yolo: Pretrained knowledge guided yolo for brain tumor detection in multiplane mri slices," in *Proc. IEEE/CVF Winter Conf. Appl. Comput. Vis. (WACV)*, Tucson, AZ, USA, Feb. 28–Mar. 4, 2025, pp. 3732–3741.</br>
 <sup>**NOTE:** City of Conf., Abbrev. State, Country, Month & Day(s) are optional.</sup>
 
 - **Nature Reference Style**</br>

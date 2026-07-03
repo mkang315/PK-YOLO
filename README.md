@@ -43,7 +43,7 @@ M. Kang, F. F. Ting, R. C.-W. Phan, and C.-M. Ting, "Pk-yolo: Pretrained knowled
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. PK-YOLO: pretrained knowledge guided YOLO for brain tumor detection in multiplane MRI slices. In *2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)* 3732–3741 (IEEE, 2025).</br>
 
 - **Springer Reference Style**</br>
-Kang, M., Ting, F.F., Phan, R.C.-W., Ting, C.-M.: PK-YOLO: pretrained knowledge guided YOLO for brain tumor detection in multiplane MRI slices. In: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 3732–3741. IEEE, Piscataway (2025)</br>
+Kang, M., Ting, F.F., Phan, R.C.-W., Ting, C.-M.: PK-YOLO: pretrained knowledge guided YOLO for brain tumor detection in multiplane MRI slices. In: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). pp. 3732–3741. IEEE, Piscataway (2025)</br>
 <sup>**NOTE:** *ECCV* and *MICCAI* conference proceedings are part of the book series LNCS in which Springer's format for bibliographical references is strictly enforced. LNCS stands for Lecture Notes in Computer Science.</sup>
 
 - **Elsevier Numbered Style**</br>
